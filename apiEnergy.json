@@ -4,7 +4,7 @@
       "nome": "EnergiaPlus",
       "planos": [
         {
-          "nome_plano": "Mais Casa (Oferta 40€) - FE e DDC",
+          "nome_plano": "Mais Casa ",
           "tipo_tarifa": "Bi-horária",
           "fatura_tipo": "Energia",
           "debito_direto": "Débito Direto",
