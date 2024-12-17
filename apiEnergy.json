@@ -105,7 +105,7 @@
           "faturacao": "Fatura eletrónica",
           "pagamento": "Débito Direto",
           "precos_eletricidade_sem_iva": {
-            "p_contratada_termo_fixo": "0,3300 €/dia",
+            "p_contratada_termo_fixo": 0.3300 ,
             "energia_ponta": 0.2385 ,
             "energia_cheias": 0.1720 ,
             "energia_vazio": 0.1075 
