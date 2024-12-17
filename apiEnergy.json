@@ -3,7 +3,7 @@
                   "p_contratada_termo_fixo":0.3175,
                   "energia":0.1435
                }
-            },
+            }
             {
                "nome_plano":"Plano Repsol Tri-Horário",
                "tipo_tarifa":"Tri-horária",
