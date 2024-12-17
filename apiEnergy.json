@@ -1,114 +1,114 @@
 {
-   "empresas":[
+   "empresas": [
       {
-         "nome":"EnergiaPlus",
-         "planos":[
+         "nome": "EnergiaPlus",
+         "planos": [
             {
-               "nome_plano":"Mais Casa ",
-               "tipo_tarifa":"Bi-horária",
-               "fatura_tipo":"Energia",
-               "debito_direto":true,
-               "contratacao":"Presencial, Telefónica",
-               "faturacao":true,
-               "pagamento":"Débito Direto",
-               "precos_eletricidade_sem_iva":{
-                  "p_contratada_termo_fixo":0.2550,
-                  "energia_fora_vazio":0.1930,
-                  "energia_vazio":0.0920
+               "nome_plano": "Mais Casa",
+               "tipo_tarifa": "Bi-horária",
+               "fatura_tipo": "Energia",
+               "debito_direto": true,
+               "contratacao": "Presencial, Telefónica",
+               "faturacao": true,
+               "pagamento": "Débito Direto",
+               "precos_eletricidade_sem_iva": {
+                  "p_contratada_termo_fixo": 0.255,
+                  "energia_fora_vazio": 0.193,
+                  "energia_vazio": 0.092
                }
             },
             {
-               "nome_plano":"Plano Eco",
-               "tipo_tarifa":"Simples",
-               "fatura_tipo":"Energia",
-               "debito_direto":false,
-               "contratacao":"Online",
-               "faturacao":true,
-               "pagamento":"Débito Direto",
-               "precos_eletricidade_sem_iva":{
-                  "p_contratada_termo_fixo":0.3200,
-                  "energia":0.1450
+               "nome_plano": "Plano Eco",
+               "tipo_tarifa": "Simples",
+               "fatura_tipo": "Energia",
+               "debito_direto": false,
+               "contratacao": "Online",
+               "faturacao": true,
+               "pagamento": "Débito Direto",
+               "precos_eletricidade_sem_iva": {
+                  "p_contratada_termo_fixo": 0.32,
+                  "energia": 0.145
                }
             },
             {
-               "nome_plano":"Plano Tri-Horário Solar",
-               "tipo_tarifa":"Tri-horária",
-               "fatura_tipo":"Energia",
-               "debito_direto":true,
-               "contratacao":"Presencial",
-               "faturacao":false,
-               "pagamento":"Débito Direto",
-               "precos_eletricidade_sem_iva":{
-                  "p_contratada_termo_fixo":0.3330,
-                  "energia_ponta":0.2400,
-                  "energia_cheias":0.1735,
-                  "energia_vazio":0.1080
+               "nome_plano": "Plano Tri-Horário Solar",
+               "tipo_tarifa": "Tri-horária",
+               "fatura_tipo": "Energia",
+               "debito_direto": true,
+               "contratacao": "Presencial",
+               "faturacao": false,
+               "pagamento": "Débito Direto",
+               "precos_eletricidade_sem_iva": {
+                  "p_contratada_termo_fixo": 0.333,
+                  "energia_ponta": 0.24,
+                  "energia_cheias": 0.1735,
+                  "energia_vazio": 0.108
                }
             }
          ]
       },
       {
-         "nome":"EcoEnergia",
-         "planos":[
+         "nome": "EcoEnergia",
+         "planos": [
             {
-               "nome_plano":"Plenitude Verde",
-               "tipo_tarifa":"Tri-horária",
-               "fatura_tipo":"Energia",
-               "debito_direto":false,
-               "contratacao":"Online",
-               "faturacao":true,
-               "pagamento":"Débito Direto",
-               "precos_eletricidade_sem_iva":{
-                  "p_contratada_termo_fixo":0.3340,
-                  "energia_ponta":0.2420,
-                  "energia_cheias":0.1750,
-                  "energia_vazio":0.1060
+               "nome_plano": "Plenitude Verde",
+               "tipo_tarifa": "Tri-horária",
+               "fatura_tipo": "Energia",
+               "debito_direto": false,
+               "contratacao": "Online",
+               "faturacao": true,
+               "pagamento": "Débito Direto",
+               "precos_eletricidade_sem_iva": {
+                  "p_contratada_termo_fixo": 0.334,
+                  "energia_ponta": 0.242,
+                  "energia_cheias": 0.175,
+                  "energia_vazio": 0.106
                }
             },
             {
-               "nome_plano":"Plano Eco Simples",
-               "tipo_tarifa":"Simples",
-               "fatura_tipo":"Energia",
-               "debito_direto":"Débito Direto",
-               "contratacao":"Online",
-               "faturacao":"Fatura eletrónica",
-               "pagamento":"Débito Direto",
-               "precos_eletricidade_sem_iva":{
-                  "p_contratada_termo_fixo":0.3150,
-                  "energia":0.1415
+               "nome_plano": "Plano Eco Simples",
+               "tipo_tarifa": "Simples",
+               "fatura_tipo": "Energia",
+               "debito_direto": true,
+               "contratacao": "Online",
+               "faturacao": true,
+               "pagamento": "Débito Direto",
+               "precos_eletricidade_sem_iva": {
+                  "p_contratada_termo_fixo": 0.315,
+                  "energia": 0.1415
                }
             }
          ]
       },
       {
-         "nome":"Repsol",
-         "planos":[
+         "nome": "Repsol",
+         "planos": [
             {
-               "nome_plano":"Plano Repsol Eficiente",
-               "tipo_tarifa":"Simples",
-               "fatura_tipo":"Energia",
-               "debito_direto":"Débito Direto",
-               "contratacao":"Online",
-               "faturacao":"Fatura eletrónica",
-               "pagamento":"Débito Direto",
-               "precos_eletricidade_sem_iva":{
-                  "p_contratada_termo_fixo":0.3175,
-                  "energia":0.1435
+               "nome_plano": "Plano Repsol Eficiente",
+               "tipo_tarifa": "Simples",
+               "fatura_tipo": "Energia",
+               "debito_direto": true,
+               "contratacao": "Online",
+               "faturacao": true,
+               "pagamento": "Débito Direto",
+               "precos_eletricidade_sem_iva": {
+                  "p_contratada_termo_fixo": 0.3175,
+                  "energia": 0.1435
                }
             },
             {
-               "nome_plano":"Plano Repsol Tri-Horário",
-               "tipo_tarifa":"Tri-horária",
-               "fatura_tipo":"Energia",
-               "debito_direto":"Débito Direto",
-               "contratacao":"Presencial, Telefónica",
-               "faturacao":"Fatura eletrónica",
-               "pagamento":"Débito Direto",
-               "precos_eletricidade_sem_iva":{
-                  "p_contratada_termo_fixo":0.3300,
-                  "energia_ponta":0.2385,
-                  "energia_cheias":0.1720,
-                  "energia_vazio":0.1075
+               "nome_plano": "Plano Repsol Tri-Horário",
+               "tipo_tarifa": "Tri-horária",
+               "fatura_tipo": "Energia",
+               "debito_direto": true,
+               "contratacao": "Presencial, Telefónica",
+               "faturacao": true,
+               "pagamento": "Débito Direto",
+               "precos_eletricidade_sem_iva": {
+                  "p_contratada_termo_fixo": 0.33,
+                  "energia_ponta": 0.2385,
+                  "energia_cheias": 0.172,
+                  "energia_vazio": 0.1075
                }
             }
          ]
