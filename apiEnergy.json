@@ -59,10 +59,10 @@
           "faturacao": true,
           "pagamento": "Débito Direto",
           "precos_eletricidade_sem_iva": {
-            "p_contratada_termo_fixo": 0.3340 ,
-            "energia_ponta": 0.2420 ,
-            "energia_cheias": 0.1750 ,
-            "energia_vazio": 0.1060 
+            "p_contratada_termo_fixo": 0.3340,
+            "energia_ponta": 0.2420,
+            "energia_cheias": 0.1750,
+            "energia_vazio": 0.1060, 
           }
         },
         {
@@ -75,7 +75,7 @@
           "pagamento": "Débito Direto",
           "precos_eletricidade_sem_iva": {
             "p_contratada_termo_fixo": 0.3150 ,
-            "energia": 0.1415
+            "energia": 0.1415,
           }
         }
       ]
@@ -93,7 +93,7 @@
           "pagamento": "Débito Direto",
           "precos_eletricidade_sem_iva": {
             "p_contratada_termo_fixo": 0.3175 ,
-            "energia": 0.1435 
+            "energia": 0.1435, 
           }
         },
         {
@@ -106,9 +106,9 @@
           "pagamento": "Débito Direto",
           "precos_eletricidade_sem_iva": {
             "p_contratada_termo_fixo": 0.3300 ,
-            "energia_ponta": 0.2385 ,
-            "energia_cheias": 0.1720 ,
-            "energia_vazio": 0.1075 
+            "energia_ponta": 0.2385,
+            "energia_cheias": 0.1720,
+            "energia_vazio": 0.1075, 
           }
         }
       ]
