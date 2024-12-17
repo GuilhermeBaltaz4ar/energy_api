@@ -71,7 +71,7 @@
                "fatura_tipo":"Energia",
                "debito_direto":true,
                "contratacao":"Online",
-               "faturacao":"true,
+               "faturacao":true,
                "pagamento":"Débito Direto",
                "precos_eletricidade_sem_iva":{
                   "p_contratada_termo_fixo":0.3150,
